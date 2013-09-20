@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="original_models/|team1_models/|team2_models/|tiles/|sounds/|original_models/|tiles/|sounds/|team1_models/|team2_models/|original_models/|tiles/|team2_models/|team1_models/|sounds/|images/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/tiles"/>
+	<classpathentry kind="src" path="src/team2_models"/>
+	<classpathentry kind="src" path="src/team1_models"/>
+	<classpathentry kind="src" path="src/images"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
